@@ -1,0 +1,17 @@
+[
+  {
+    "id": "f1a6e3a1-1111-41f1-9b10-000000000001",
+    "descripcion": "Revisar apuntes de ECMAScript",
+    "completada": false
+  },
+  {
+    "id": "f1a6e3a1-1111-41f1-9b10-000000000002",
+    "descripcion": "Grabar evidencia (captura o video)",
+    "completada": false
+  },
+  {
+    "id": "f1a6e3a1-1111-41f1-9b10-000000000003",
+    "descripcion": "Escribir README con instrucciones",
+    "completada": true
+  }
+]
